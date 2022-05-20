@@ -21,7 +21,7 @@ This application uses the combination of the MERN stack to query a google search
 
 ## Screenshot
 
-![A screenshot of the website](./client/src/images/booksearch.png)
+![A screenshot of the website](./client/public/images/booksearch.png)
 
 ## Links to Application
 
